@@ -6,4 +6,7 @@ Date: 2026-02-11
 ## What I'm Learning
 = Git basics
 = Version Control
-= Collaboration 
+= Collaboration ## Features
+-	Dark mode toggle
+-	Responsive design
+-	Clean UI
